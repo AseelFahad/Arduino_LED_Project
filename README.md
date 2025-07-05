@@ -19,9 +19,7 @@ This project demonstrates how to use an Arduino UNO to control three LEDs using 
 
 ## 🖼️ Circuit Diagram
 
-> The circuit is built on Tinkercad and looks like this:
-
-![Copy of  3--leds with 3 buttons A Alrashdi](https://github.com/user-attachments/assets/af788ee3-8232-4532-b3a9-40e560d586f6)
+> The circuit is built on Tinkercad: (You can see the pictuer in "Arduino LED" file on top)
 
 - Buttons are connected to digital pins 7, 8, and 9
 - LEDs are connected to digital pins 10, 11, and 12
